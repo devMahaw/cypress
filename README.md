@@ -9,7 +9,7 @@ Projeto para treino de Cypress.
 
 ## Visão Geral
 
-Neste projeto há uma sequência de testes feitos em Cypress para um site de candidatura feito pela EBAC disponibilizado pela vercel.
+Neste projeto há uma sequência de testes feitos em Cypress para um site de candidatura feito pela EBAC e disponibilizado pela vercel.
 
 ## Tecnologias Usadas
 
